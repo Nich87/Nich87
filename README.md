@@ -1,6 +1,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nich87&layout=compact&title_color=26fc26&text_color=ffffff&hide_border=true&icon_color=ffffff&bg_color=70,01001a,064d8c)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nich87_icons=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nich87&show_icons=true&theme=tokyonight" />
 <!--
 **Nich87/Nich87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
