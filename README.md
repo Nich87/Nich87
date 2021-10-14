@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=nich87&theme=onedark&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=nich87&theme=algolia&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Nich87&theme=nightowl" />
