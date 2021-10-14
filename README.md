@@ -1,4 +1,4 @@
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sizumita&theme=nightowl" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Nich87&theme=nightowl" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nich87&show_icons=true&theme=nightowl&count_private=true" />
 <!--
