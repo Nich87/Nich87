@@ -1,3 +1,6 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=nich87&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
+
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Nich87&theme=nightowl" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nich87&show_icons=true&theme=nightowl&count_private=true" />
