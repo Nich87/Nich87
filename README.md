@@ -44,6 +44,7 @@
     <!--------->
 </p>
 - 🌱 I’m currently learning ... Node.js,Electron,Materialize,discord.js
+
 - 📫 How to reach me: ... [HomePage](https://nich87.github.io/)
 
 
