@@ -1,5 +1,5 @@
 [![Nich87](https://komarev.com/ghpvc/?username=Nich87&red&style=flat-square)](https://github.com/Nich87/Nich87)
-[![Nich87F](https://img.shields.io/github/followers/yutkat?label=follow&red&logo=github&style=flat-square)](https://github.com/Nich87/Nich87)
+[![Nich87F](https://img.shields.io/github/followers/Nich87?label=follow&red&logo=github&style=flat-square)](https://github.com/Nich87/Nich87)
 [![Twiiter](https://img.shields.io/twitter/follow/const_root?label=Twitter&red&logo=twitter&style=flat-square)](https://twitter.com/const_root)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nich87&theme=algolia&column=7)](https://github.com/ryo-ma/github-profile-trophy)
